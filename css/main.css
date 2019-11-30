@@ -182,7 +182,6 @@ footer {
 .contact h1 {
 	text-align: center;
 	color: #eccb2e;
-	margin: 7% auto;
 	margin-bottom: 7%;
 	font-size: 37px;
 	font-weight: 350;
@@ -193,7 +192,7 @@ footer {
 	max-width: 650px;
 	height: 600px;
 	background-color: #000;
-	margin: 7% auto;
+	margin: 2% auto;
   	box-sizing: border-box;
   	padding: 40px;
   	border-style: solid;
