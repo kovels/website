@@ -6,7 +6,7 @@ body {
 
 .upper ul {
 	list-style-type: none;
-  	padding: 5px;
+  	padding: 3px;
   	padding-left: 80px;
   	padding-right: 80px;
   	overflow: hidden;
@@ -64,7 +64,6 @@ body {
 #contact:hover {
 	color: #ffe100;
 }
-
 
 .maintext h1 {
 	display: block;
@@ -173,7 +172,6 @@ footer {
 
 .skateboards h1 {
 	text-align: center;
-	margin-top: 7%;
 	color: #eccb2e;
 	font-size: 37px;
 	font-weight: 350;
@@ -185,7 +183,7 @@ footer {
 .contact h1 {
 	text-align: center;
 	color: #eccb2e;
-	margin-bottom: 7%;
+	margin-bottom: 40px;
 	font-size: 37px;
 	font-weight: 350;
 	font-family: 'Montserrat', sans-serif;
@@ -195,7 +193,7 @@ footer {
 	max-width: 650px;
 	height: 600px;
 	background-color: #000;
-	margin: 2% auto;
+	margin: 100px auto;
   	box-sizing: border-box;
   	padding: 40px;
   	border-style: solid;
