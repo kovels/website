@@ -140,9 +140,13 @@ footer {
 
 /* ================== About Us ================== */
 
+.aboutus {
+	position: relative;
+	top: 70px;
+}
+
 .aboutus h1 {
 	text-align: center;
-	margin-top: 7%;
 	color: #eccb2e;
 	font-size: 37px;
 	font-weight: 350;
@@ -151,7 +155,6 @@ footer {
 }
 
 .aboutus p {
-	align-items: center;
 	color: #fff;
 	font-size: 16px;
 	font-weight: 350;
