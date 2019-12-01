@@ -21,7 +21,7 @@ body {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	font-size: 23px;
+	font-size: 1.8vw;
 	padding: 10px;
 	text-decoration: none;
 	font-family: 'Open Sans', sans-serif;
@@ -47,7 +47,7 @@ body {
 	display: block;
 	color: white;
 	text-align: center;
-	font-size: 11px;
+	font-size: 0.9vw;
 	margin: 10px;
 	text-decoration: none;
 	font-family: 'Montserrat', sans-serif;
