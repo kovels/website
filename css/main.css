@@ -1,5 +1,5 @@
 body {
-	background-color: black;			
+	background-color: black;
 }
 
 /* ================== Main ================== */
@@ -47,7 +47,7 @@ body {
 	display: block;
 	color: white;
 	text-align: center;
-	font-size: 0.9vw;
+	font-size: .9vw;
 	margin: 10px;
 	text-decoration: none;
 	font-family: 'Montserrat', sans-serif;
@@ -123,6 +123,27 @@ body {
   }
 }
 
+.findout button {
+	background-color: #eccb2e; 
+  	border: none;
+  	border-radius: 50px;
+  	color: #000;
+  	cursor: pointer;
+  	display: inline-block;
+  	font-size: 16px;
+  	font-family: 'Montserrat', sans-serif;
+  	padding: 15px 32px;
+  	position: relative;
+  	top: 130px;
+  	left: 42%;	
+  	text-align: center;
+  	text-decoration: none;
+}
+
+.findout button:hover {
+	background-color: #d2b214;
+}
+
 .footer {
 	color: grey;
 	font-size: .9vw;
@@ -132,6 +153,9 @@ body {
 	left: 0;
 	bottom: 0;
 }
+
+
+
 
 /* ================== About Us ================== */
 
@@ -230,6 +254,7 @@ body {
 .button {
   	background-color: #eccb2e;
   	border: none;
+  	border-radius: 50px;
   	display: flex; 
   	justify-content: center;
   	padding: 15px 32px;
